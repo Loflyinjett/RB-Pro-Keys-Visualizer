@@ -48,7 +48,7 @@
 
 ## 🙌 Credits
 
-- Developed by [LoflyinJett]
+- Developed by LoflyinJett
 - Special thanks to the REAPER scripting community
 - Huge inspiration from Harmonix’s Rock Band visual style
 
