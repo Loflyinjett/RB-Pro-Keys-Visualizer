@@ -2,6 +2,8 @@
 
 🎹 A Rock Band-style MIDI keyboard visualizer for REAPER — designed for helping people visualize their rhythm game custom songs.
 
+![LoflyinJetts Pro Keys Visualizer Screenshot](preview.png)
+
 ---
 
 ## ✨ Features
