@@ -1,6 +1,6 @@
 # LoflyinJetts Pro Keys Visualizer
 
-🎹 A Rock Band-style MIDI keyboard visualizer for REAPER — designed for helping people visualize their rhythm game custom songs.
+🎹 A Rock Band-style MIDI keyboard visualizer for REAPER — designed for helping people visualize their rhythm game custom songs featuring Pro Keys charts.
 
 ![LoflyinJetts Pro Keys Visualizer Screenshot](preview.png)
 
