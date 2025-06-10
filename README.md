@@ -4,6 +4,7 @@
 
 ![LoflyinJetts Pro Keys Visualizer Screenshot](preview.png)
 
+
 ---
 
 ## ✨ Features
@@ -65,3 +66,9 @@ Buy me a coffee! - https://buymeacoffee.com/loflyinjett
 ## 🧠 License
 
 MIT License – use freely, remix, and contribute!
+
+---
+
+## Demo Video
+
+[LFJs Pro Keys Visualizer V2.1 Demo Video.webm](https://github.com/user-attachments/assets/9dfb5ca5-52fa-4c9b-9e64-3f0f21244457)
