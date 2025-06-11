@@ -15,7 +15,7 @@
 - **Keyboard Range Detection** – reacts to RB range notes on MIDI notes 0, 2, 4, 5, 7, 9 to define playable ranges.
 - **Range Shift Arrows** – animated arrows prep you for upcoming range shifts before the change.
 - **Lane Dimming** – notes outside the active range are subtly dimmed with a shadow overlay.
-- 🕹**Zoom with Mouse Wheel** – control scroll speed interactively.
+- **Zoom with Mouse Wheel** – control scroll speed interactively.
 - **Resizable UI** – reacts to window size with proper scaling.
 - **Measure + Grid Lines** – supports multiple grid resolutions (1/4, 1/8, etc.).
 
