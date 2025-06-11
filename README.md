@@ -24,8 +24,9 @@
 ## Requirements
 
 - **REAPER 7+** (May work on other versions but this is untested)
+- **Python 3+** (May work on other versions but this is untested)
 - Lua scripting enabled in ReaScript
-- Python 3+ (May work on other versions but this is untested)
+
 
 ---
 
