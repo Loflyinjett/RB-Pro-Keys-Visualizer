@@ -73,5 +73,4 @@ MIT License – use freely, remix, and contribute!
 ---
 
 ## Demo Video
-
-[LFJs Pro Keys Visualizer V2.1 Demo Video.webm](https://github.com/user-attachments/assets/9dfb5ca5-52fa-4c9b-9e64-3f0f21244457)
+[LFJs Pro Keys Visualizer V2.5 Demo Video.webm](https://github.com/user-attachments/assets/3ad60f78-c1d6-4a2d-b7ac-ee6157041b70)
