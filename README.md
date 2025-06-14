@@ -33,7 +33,7 @@
 
 ## Installation
 
-1. Download the latest version
+1. Download the latest version from the "Releases" section on this Github page.
 2. In REAPER:
    - Go to `Actions > ReaScript > Load`
    - Choose the `.lua` file
