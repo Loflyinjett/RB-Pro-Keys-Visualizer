@@ -12,6 +12,7 @@
 - **Piano Roll Highway** – smooth vertical note scroll with time-synced playback.
 - **Rock Band-Style Notes** – chunky rectangular notes and sustain tails.
 - **Glowing Outlines** – visual clarity even with heavy note clusters.
+- **Overdrive Awareness** - Notes visually glow to indicate when a note is authored for Overdrive.
 - **Keyboard Range Detection** – reacts to RB range notes on MIDI notes 0, 2, 4, 5, 7, 9 to define playable ranges.
 - **Range Shift Arrows** – animated arrows prep you for upcoming range shifts before the change.
 - **Lane Dimming** – notes outside the active range are subtly dimmed with a shadow overlay.
